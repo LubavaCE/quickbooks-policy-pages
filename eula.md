@@ -1,1 +1,1 @@
-//////
+This application is developed for internal use by [Your Company Name] to connect QuickBooks Online with our internal systems. It is not distributed publicly. All use of the application is subject to internal policies and compliance requirements. We do not provide warranties or support to third parties.
