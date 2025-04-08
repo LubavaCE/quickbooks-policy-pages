@@ -1,1 +1,1 @@
-dsdsdsds
+This application connects to QuickBooks Online using secure API methods. We store access tokens securely and use them solely for the purpose of synchronizing accounting data with our internal systems. No personal or financial data is shared with any third party. This tool is used internally by CES only.
